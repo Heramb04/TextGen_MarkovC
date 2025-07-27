@@ -1,6 +1,6 @@
 # 🌍 Planet Earth Markov Text Generator
 
-This project is the third task from my Prodigy InfoTech Generative AI internship. It demonstrates a simple but effective text generation approach using **Markov chains**, trained on a custom 10,000-word corpus about Earth (fetched from Wikipedia).
+This project demonstrates a simple but effective text generation approach using **Markov chains**, trained on a custom 10,000-word corpus about Earth (fetched from Wikipedia).
 
 The app generates Earth-themed prose based on probabilistic state transitions using a 2-gram (order=2) model, and is deployed live as a Hugging Face Space using **Gradio**.
 
